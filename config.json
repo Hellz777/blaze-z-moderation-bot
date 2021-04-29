@@ -1,7 +1,7 @@
 {
     "token": "Your Token - Create Here https://discord.com/developers/applications",
-    "prefix": "Set Your Prefix",
-    "servername": "Server Name",
-    "servericon_url": "Server Image URL",
-    "suggestions": "Suggestions Channel ID"
+    "prefix": "&",
+    "servername": "Spider Roleplay",
+    "servericon_url": "https://cdn.discordapp.com/attachments/709409595860189286/834391065200033852/logo6.png",
+    "suggestions": "831241337533235238"
 }
